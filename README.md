@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 QA Engineer
 -----------
 
-Experienced Quality Assurance Engineer with a developer background, specializing in software testing, quality assurance, Proficient in ensuring reliability and
+Experienced Quality Assurance Engineer with a developer background, specializing in software testing, quality
+assurance, Proficient in ensuring reliability and performance through meticulous test case execution, planning,
+and defect tracking. Skilled in SQL and NoSQL for complex data queries. Ready to apply expertise to deliver
+high-quality software testing and assurance.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [pongsatornbpst@gmail.com](mailto:pongsatornbpst@gmail.com)
